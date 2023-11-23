@@ -1,0 +1,41 @@
+.catalog_page {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.rdt_TableCell {
+  padding: 20px 20px;
+  font-size: 14px;
+  color: #697a8d;
+  font-weight: 500;
+}
+
+.rdt_TableCol {
+  text-transform: capitalize;
+}
+
+.rdt_Table {
+  padding: 15px;
+  border-radius: 19px;
+}
+
+.rdt_Pagination {
+  background-color: transparent !important;
+  justify-content: flex-start !important;
+  gap: 15px;
+}
+
+.gODfSl {
+  background-color: #fff;
+}
+#pagination-first-page {
+  border-radius: 0;
+}
+
+.catalog_single_page_inputs {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 11px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px 0 rgba(67, 89, 113, 0.12);
+}
